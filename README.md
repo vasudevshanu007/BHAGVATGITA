@@ -1,3 +1,23 @@
+**Privacy Policy**
+
+We are committed to protecting your privacy and ensuring the security of your information while using the Bhagavad Gita mobile application ("the App").
+
+Please read this privacy policy to understand how we collect, use, and safeguard your data.
+
+Information Collection: Bhagavad Gita does not collect or store any personal information from users. No user registration or login details are required within the App.
+
+Use of External Services: The App integrates with Open Source Bhagavad Gita API for certain functionalities. Please note that any information provided to Open Source API is subject to their respective privacy policies. We encourage you to review their policies for further details.
+
+Data Security: We take appropriate measures to ensure the security of your information. However, please be aware that no method of data transmission over the internet or electronic storage is 100% secure.
+
+Third-Party Services and Links: The App may include links to third-party websites or services. We are not responsible for their privacy practices. We recommend reviewing the privacy policies of any third-party services before providing personal information.
+
+Children's Privacy: We do not knowingly collect personal information from children. If we discover that we have inadvertently collected data from a child, we will promptly delete it.
+
+Changes to the Privacy Policy: We reserve the right to modify or update this privacy policy. Any changes will be effective upon posting the revised policy in the App. If you have any questions or concerns about this privacy policy or our data practices, please contact us at harsh103anand@gmail.com
+
+**About**
+
 An **Open Source Bhagavad Gita App** made with **React Native** in which you can read the **Shloks of Gita**, their Hindi Translations and Meanings easily. 
 
 This app utilises the **Open Source Bhagavad Gita API** for data : https://bhagavadgitaapi.in/
