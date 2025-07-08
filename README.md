@@ -14,7 +14,7 @@ Third-Party Services and Links: The App may include links to third-party website
 
 Children's Privacy: We do not knowingly collect personal information from children. If we discover that we have inadvertently collected data from a child, we will promptly delete it.
 
-Changes to the Privacy Policy: We reserve the right to modify or update this privacy policy. Any changes will be effective upon posting the revised policy in the App. If you have any questions or concerns about this privacy policy or our data practices, please contact us at harsh103anand@gmail.com
+Changes to the Privacy Policy: We reserve the right to modify or update this privacy policy. Any changes will be effective upon posting the revised policy in the App. If you have any questions or concerns about this privacy policy or our data practices, please contact us at vasudevshanu07@gmail.com
 
 **About**
 
